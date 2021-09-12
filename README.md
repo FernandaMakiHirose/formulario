@@ -1,5 +1,5 @@
-# Formulário animado responsivo :octocat:
-Clique [aqui]() para acessar o formulário. 
+# Formulário animado responsivo
+Clique [aqui :octocat:]() para acessar o formulário. 
 
 ## Requisitos
 - IDE
